@@ -1,0 +1,19 @@
+{
+  "name": "match-g3",
+  "version": "0.0.1",
+  "description": "Node wrapper for Match.com's G3 API",
+  "main": "lib/g3",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "match.com",
+    "g3"
+  ],
+  "author": "Neil Duffy <neiladuffy@gmail.com> (http://conceptualitis.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "q": "^1.0.1",
+    "request": "^2.40.0"
+  }
+}
