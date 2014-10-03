@@ -10,6 +10,10 @@
     "match.com",
     "g3"
   ],
+  "repository": {
+      "type": "git",
+      "url": "http://github.com/conceptualitis/match-g3-node.git"
+  },
   "author": "Neil Duffy <neiladuffy@gmail.com> (http://conceptualitis.com/)",
   "license": "ISC",
   "dependencies": {
