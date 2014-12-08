@@ -1,6 +1,6 @@
 {
   "name": "match-g3",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Node wrapper for Match.com's G3 API",
   "main": "lib/g3",
   "scripts": {
